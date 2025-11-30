@@ -1,6 +1,8 @@
 # ai-llm-comic-book
 Fun comic short story on LLM
 
+
+
 # AI Comic: LLM Basics
 
 A fun comic-style mini storybook to explain:

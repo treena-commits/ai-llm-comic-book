@@ -20,7 +20,23 @@ I wanted to make AI concepts feel less intimidating and more playful, using visu
 ## How to View
 
 - Download the PDF: `llm-comic-basics.pdf`
-- Or browse the `/pages` folder for individual images.
+- # AI Comic: LLM Basics
+
+A fun comic-style mini storybook to explain:
+
+- What Large Language Models (LLMs) are
+- Tokens
+- Embeddings
+- Retrieval-Augmented Generation (RAG)
+- Hallucinations
+
+## Why I Created This
+
+I wanted to make AI concepts feel less intimidating and more playful, using visuals and storytelling.
+
+## How to View
+
+- Download the PDF: `llm-comic-basics.pdf`
 
 ## Topics Covered
 
@@ -33,4 +49,5 @@ I wanted to make AI concepts feel less intimidating and more playful, using visu
 ## License
 
 Feel free to share the comic, but please credit the author.
+
 
